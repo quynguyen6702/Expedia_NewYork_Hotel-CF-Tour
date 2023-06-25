@@ -7,7 +7,7 @@
 | Trình tự thực hiện | Tên các bước                                                      | Link code                                                    |
 | ----- | ------------------------------------------------------------                   | ------------------------------------------------------------ |
 | 1     |Crawl Data trang web (expedia.com) để lấy dữ liệu về thông tin các khách sạn tại New York | [👆](https://drive.google.com/file/d/18HuhHB5r9GuYalXjfRkR32d-TW838Jx9/view?usp=sharing) |
-| 2     |Crawl Data trang web (expedia.com) để lấy dữ liệu về thông tin các khách hàng đã đánh giá các khách sạn tại New York | [👆](https://drive.google.com/file/d/1t8i3_x6wCIGNYJB3WDdWY4KnVZn2MNGQ/view?usp=sharing)https://drive.google.com/file/d/1t8i3_x6wCIGNYJB3WDdWY4KnVZn2MNGQ/view?usp=sharing) |
+| 2     |Crawl Data trang web (expedia.com) để lấy dữ liệu về thông tin các khách hàng đã đánh giá các khách sạn tại New York | [👆](https://drive.google.com/file/d/1t8i3_x6wCIGNYJB3WDdWY4KnVZn2MNGQ/view?usp=sharing) |
 | 3     |Clean Data dữ liệu "Hotel_NewYork" | [👆](https://drive.google.com/file/d/1sOEHoefHrOApV-JaABjkU9fqjOBTHx5I/view?usp=sharing) |
 | 4     |Clean Data dữ liệu "User_NewYork" | [👆](https://drive.google.com/file/d/1mqfDfkgXIqBAXiV6w-KMklLhG0GhJ_ka/view?usp=sharing) |
 | 5     |Build SVD Model CF (Lọc cộng tác)  | [👆](https://drive.google.com/file/d/1K8iLC0ASkdo1iL3QwkthujF4tHXzVN6l/view?usp=sharing) |
