@@ -22,4 +22,8 @@
 #### 2. Sắp xếp lộ trình sao cho thời gian đi lại giữa các điểm du lịch được tối ưu, làm giảm chi phí di chuyển và đảm bảo khách hàng có thời gian tham quan đầy đủ mỗi địa điểm.
 #### 3. Lựa chọn phương tiện di chuyển phù hợp cho khách hàng.
 
+## Kết quả nhận được:
+![image](https://github.com/quynguyen6702/Expedia_NewYork_Hotel-CF-Tour/assets/125745108/6bd640c0-e7bb-40fe-a0a1-e6f78d276b11)
+![image](https://github.com/quynguyen6702/Expedia_NewYork_Hotel-CF-Tour/assets/125745108/ed45d486-d511-41e2-a8d8-980716196497)
+
 
